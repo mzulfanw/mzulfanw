@@ -5,7 +5,7 @@
 About my self : 
 
 - 🌱 I’m currently learning Javascript , css , PHP , Codeigniter
-- 📫 How to reach me: Instagram (https://www.instagram.com/mzulfanw)<br>
+- 📫 How to reach me: Instagram (https://www.instagram.com/mzulfanw)
                        Linkedln (https://www.linkedin.com/in/muhammad-zulfan-wahyudin-3443281b6/)
 - 😄 Languages: Bahasa and English
 - ⚡ Fun fact: Im 18y.o and im falling in love with technology
