@@ -6,7 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 - 🔭 I’m currently working on home
 - 💬 Ask me about something
-- 😄 Pronouns: he/him
 - 📫 How to reach me: [@mzulfanw](https://instagram.com/mzulfanw)
 - ⚡ Fun fact: I ❤️ you <br>&nbsp;
 
