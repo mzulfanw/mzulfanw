@@ -5,9 +5,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 - 🔭 I’m currently working on home
-- 💬 Ask me about something
 - 📫 How to reach me: [@mzulfanw](https://instagram.com/mzulfanw)
-- ⚡ Fun fact: I ❤️ you <br>&nbsp;
 
 <p align="center">
   <a href="https://github.com/mzulfanw/github-readme-stats">
